@@ -6,4 +6,4 @@
 
 - SQLite: Per project data
 
-![alt text](schemas.png)
+![alt text](sqlite_schemas.png)
