@@ -5,3 +5,5 @@
 - postgreSQL folder: Core DB
 
 - SQLite: Per project data
+
+![alt text](schemas.png)
