@@ -1,9 +1,11 @@
-# DB's team monorepo for "Sistema de Ges+ón de Proyectos para Centro de Desarrollo UAQ"
+# Infraesturctura de las bases de datos para el Sistema de Gestión de Proyectos para el Centro de Desarrollo UAQ"
 
-## Repo layout 
+## Estructura del repositorio
 
-- postgreSQL folder: Core DB
+- postgreSQL folder: Base de datos central
 
-- SQLite: Per project data
+![alt text](schema_postgres.png)
 
-![alt text](sqlite_schemas.png)
+- SQLite: Base de datos por proyecto
+
+![alt text](schema_sqlite.png)
