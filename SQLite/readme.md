@@ -1,3 +1,3 @@
 # Esquema DB sqlite
 
-![alt-text](schemas_sqlite.png)
+![alt-text](schema_sqlite.png)
