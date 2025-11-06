@@ -4,7 +4,7 @@
 
 - postgreSQL folder: Base de datos central
 
-![alt text](postgres/schema_postgres.png)
+![alt text](https://github.com/WeirdCatAFK/ProjectManagement-DB/blob/main/SQLite/sqlite-img-11625.png)
 
 - SQLite: Base de datos por proyecto
 
