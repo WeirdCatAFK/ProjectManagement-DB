@@ -8,4 +8,4 @@
 
 - SQLite: Base de datos por proyecto
 
-![alt text](schema_sqlite.png)
+![alt text](sqlite-img-11625.png)
