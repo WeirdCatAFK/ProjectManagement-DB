@@ -4,8 +4,8 @@
 
 - postgreSQL folder: Base de datos central
 
-![alt text](schema_postgres.png)
+![alt text](postgres/schema_postgres.png)
 
 - SQLite: Base de datos por proyecto
 
-![alt text](sqlite-img-11625.png)
+![alt text](SQLite/sqlite-img-11625.png)
