@@ -4,8 +4,8 @@
 
 - postgreSQL folder: Base de datos central
 
-![alt text](https://github.com/WeirdCatAFK/ProjectManagement-DB/blob/main/SQLite/sqlite-img-11625.png)
+![alt text](https://github.com/WeirdCatAFK/ProjectManagement-DB/blob/main/postgreSQL/Diagram.png)
 
 - SQLite: Base de datos por proyecto
 
-![alt text](SQLite/sqlite-img-11625.png)
+![alt text](https://github.com/WeirdCatAFK/ProjectManagement-DB/blob/main/SQLite/sqlite-img-11625.png )
