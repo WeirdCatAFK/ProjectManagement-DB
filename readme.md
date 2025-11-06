@@ -8,4 +8,4 @@
 
 - SQLite: Base de datos por proyecto
 
-![alt text](https://github.com/WeirdCatAFK/ProjectManagement-DB/blob/main/SQLite/sqlite-img-11625.png )
+![alt text](https://github.com/WeirdCatAFK/ProjectManagement-DB/blob/main/SQLite/sqlite_schema.png)
