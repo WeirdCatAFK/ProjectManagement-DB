@@ -1,4 +1,4 @@
-# Infraesturctura de las bases de datos para el Sistema de Gestión de Proyectos para el Centro de Desarrollo UAQ
+# Infraestructura de las bases de datos para el Sistema de Gestión de Proyectos para el Centro de Desarrollo UAQ
 
 ## Estructura del repositorio
 
