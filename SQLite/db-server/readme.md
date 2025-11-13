@@ -1,5 +1,15 @@
 # API SQLite
 
+## Instalacion y Ejecucion
+
+```bash
+bun install
+```
+
+```bash
+bun run dev
+```
+
 ## Stack de tecnologias
 
 - Bun
