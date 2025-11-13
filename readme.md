@@ -8,7 +8,7 @@
 
 - SQLite: Base de datos por proyecto
 
-![alt text](https://github.com/WeirdCatAFK/ProjectManagement-DB/blob/main/SQLite/sqlite_schema_V3.png)
+![alt text](https://github.com/WeirdCatAFK/ProjectManagement-DB/blob/main/SQLite/sqlite_schema_V4.png)
 
 ## Trabajo en el proyecto
 
