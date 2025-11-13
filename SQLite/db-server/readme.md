@@ -1,5 +1,11 @@
 # API SQLite
 
+## Stack de tecnologias
+
+- Bun
+- Hono
+- SQLite
+
 ## Endpoints de Proyectos
 
 ### Crear Proyecto
@@ -215,6 +221,7 @@ Elimina un teammember de un proyecto. No se puede eliminar si tiene tareas asign
 - Al crear un proyecto, se inicializa automaticamente la base de datos con el esquema definido en `schema.sql`
 - Al eliminar un proyecto, se elimina completamente la carpeta y todo su contenido, incluyendo la base de datos
 - El campo `updated_at` se actualiza automaticamente cuando se modifica un registro
+- Todas las columnas en la base de datos tienen la restriccion NOT NULL, por lo que todos los campos son requeridos al crear registros
 - Las foreign keys se respetan: no se puede eliminar un team si tiene teammembers, ni un teammember si tiene tareas asignadas
 - Al crear un teammember, el `team_id` debe existir en la tabla teams
 - Al crear una task, el `teammember_id` debe existir en la tabla teammembers
