@@ -30,8 +30,8 @@ create table if not exists "tasks" (
     "status" text,
     "created_at" timestamp default current_date,
     "updated_at" timestamp default current_date,
-    "team_id" integer,
-    foreign key("team_id") references "teams"("id")
+    "teammember_id" integer,
+    foreign key("teammember_id") references "teammembers"("id")
 );
 
 commit;
