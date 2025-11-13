@@ -13,8 +13,10 @@ bun run dev
 ## Stack de tecnologias
 
 - Bun
+- Typescript
 - Hono
 - SQLite
+- Prettier (Plugin para Formato)
 
 ## Endpoints de Proyectos
 
