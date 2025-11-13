@@ -1,6 +1,6 @@
 # Esquema DB sqlite
 
-![alt-text](sqlite_schema.png)
+![alt-text](sqlite_schema_V3.png)
 
 ## Sobre las base de datos sqlite
 
