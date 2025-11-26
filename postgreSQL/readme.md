@@ -133,8 +133,9 @@ docker-compose down
 1. Detén contenedores:
 
    ```bash
-   docker-compose down
+   docker-compose down -v
    ```
+   Es muy imporante la bandera -v para que destruya sus volumenes de configuración de PGadmin
 2. Elimina `./db-data` (carpeta local).
 3. Levanta nuevamente:
 
