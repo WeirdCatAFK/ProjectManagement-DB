@@ -111,7 +111,7 @@ En PgAdmin:
 
   * Host: `db`
   * Port: `5432`
-  * Maintenance DB: `POSTGRES_DB`
+  * Maintenance DB: `PMaster`
   * Username: `changeme`
   * Password: `changeme_p`
 
