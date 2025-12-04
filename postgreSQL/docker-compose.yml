@@ -9,6 +9,8 @@ services:
       - POSTGRES_USER=${POSTGRES_USER}
       - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
       - POSTGRES_DB=${POSTGRES_DB}
+      - DATABASE_ROLE=${DATABASE_ROLE}
+      - DATABASE_ROLE_PASSWORD=${DATABASE_ROLE_PASSWORD}
     volumes:
       - ./db-data:/var/lib/postgresql/data
       - ./init:/docker-entrypoint-initdb.d:ro
