@@ -30,6 +30,8 @@ psql -v ON_ERROR_STOP=1 --username "$POSTGRES_USER" --dbname "$POSTGRES_DB" <<-E
         "name" varchar(100) NOT NULL,
         "email" varchar(255) NOT NULL,
         "password_hash" text NOT NULL,
+        "2fa_secret" varchar(32),
+        "2fa_enabled" boolean,
         "phone" varchar(20),
         "active" boolean NOT NULL,
         "created_at" timestamp NOT NULL,
